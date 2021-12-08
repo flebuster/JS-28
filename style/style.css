@@ -1,0 +1,35 @@
+.custom-img{
+    max-width: 75%;
+    /* min-width: 75%; */
+    max-height: 75%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: cover;
+}
+
+.Dog{
+    font-size: large;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background: rgb(65, 42, 165);
+    color: #fff;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.Cat{
+    font-size: large;
+    margin-top: 10px;
+    margin-left: 12px;
+    border-radius: 4px;
+    background: rgb(57, 243, 0);
+    color: #fff;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
